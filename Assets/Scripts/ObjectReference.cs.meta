@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 5c1e333a4c7712adfa382f192a8549b8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Black: {fileID: 5143423290335179655, guid: 5074edf8def8f4cb381637e90b7f1ee4, type: 3}
+  - Blue: {fileID: 6156346423120108956, guid: 3b8705d953bba96a2b2923972322d6ca, type: 3}
+  - Cyan: {fileID: 7216564895233171159, guid: eedebcdfbcf287d0eadbe517a0dd4a8e, type: 3}
+  - Green: {fileID: 1598756266541994297, guid: f2e48b89f6220f668894e2bff92df713, type: 3}
+  - Orange: {fileID: 4293545458513759665, guid: f107bd20b0dfe4611a39b937ba43d3e6,
+      type: 3}
+  - Purple: {fileID: 2381067810928596382, guid: 901af04bcc6ca13e2b962d56eb7228ee,
+      type: 3}
+  - Red: {fileID: 6555512983955406111, guid: 480f9d7a4ca7c65d98edac85f9bee38a, type: 3}
+  - White: {fileID: 6863126852834735234, guid: 5e36b0b29d227c0be8ffdb4e088b62b1, type: 3}
+  - Yellow: {fileID: 1077216109495990741, guid: 3ff992d27e413639988671da9baca598,
+      type: 3}
+  - Selection: {fileID: 7087494301889796452, guid: 8ecd166717ddd6fc7b03b330365c6b7c,
+      type: 3}
+  - Star: {fileID: 2662120936116647225, guid: 8df38d42549597bd18ca99b4e3d2bff7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
